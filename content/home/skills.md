@@ -28,10 +28,10 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: Postgres
+  - description: Postgres, Amazon Web Services (AWS)
     icon: database
     icon_pack: fas
-    name: Relational Databases
+    name: Databases + Data Pipelines
   - description: RShiny + Matplotlib + ggplot + PowerBI
     icon: chart-line
     icon_pack: fas
