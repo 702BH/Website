@@ -29,5 +29,6 @@ superuser: true
 title: Billy Houseman
 ---
 
-I am a data analyst with an interest in machine learning and I am currently pursuing a career in data engineering. I was employed as a data analyst at the Welsh Government (United Kingdom) where I developed reports and visualisations to be used in national policy development. I am passionate about data and applying data science techniques to solve real world problems. I have experience with creating and maintaining databases, developing data pipelines using AWS cloud services and programming in R and Python.
+
+My name is Billy Houseman. I am a data analyst from the United Kingdom with an interest in machine learning and data engineering. I was employed as a data analyst at the Welsh Government (United Kingdom) where I developed reports and visualisations to be used in national policy development. I am passionate about data and applying data science techniques to solve real world problems. I have experience with creating and maintaining databases, developing data pipelines using AWS cloud services and programming in R and Python.
 

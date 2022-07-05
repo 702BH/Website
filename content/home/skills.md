@@ -28,7 +28,7 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: Postgres, Amazon Web Services (AWS)
+  - description: Postgres + Amazon Web Services (AWS)
     icon: database
     icon_pack: fas
     name: Databases + Data Pipelines
